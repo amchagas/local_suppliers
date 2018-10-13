@@ -25,5 +25,7 @@ Country, shop, website, obs1, obs2
 
 More categories can be added after these in case necessary. 
 
+#### Right now we started with electronic component suppliers, but we should create more .csv files with different categories! For example, if you know people who can deliver machined parts, or who can deliver 3D printers. By all means, make a new file and start a new list!
+
 
 
